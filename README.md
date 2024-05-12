@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MrIgris
+- 👀 I’m interested in AI Machine Learning
+- 🌱 I’m currently learning python
+- 📫 How to reach me ...
+- 
